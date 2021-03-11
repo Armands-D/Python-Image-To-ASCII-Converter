@@ -46,5 +46,5 @@ output.write(string)
 output.close()
 
 print("Image has been saveds as resizedFILENAME")
-image.save("resizedflower.jpg")
+image.save("resizedfimage.jpg")
 print("You Ascii art has been generated, check out.txt")
