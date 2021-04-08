@@ -8,6 +8,7 @@ You will also receive a copy of your image resized and in greyscale for comparis
 The  program takes an a psecified image, resizes it and turns it to greyscale. It then goes through each pixel and prints an ascii character depending on how dark the pixel is.
 
 Here are the characters used ordered dark to light.
-
+```
               DARK  < ---------------                         --------------- >   LIGHT
 characters = ['#', '@', 'F', '&', '£', '$', '?', 'I', 'i', '=', ';', 'o', '-', ',', '.']
+```
